@@ -60,3 +60,7 @@
 /Users/roshanpoudel/Desktop/ReactDating/DatingApp/API/bin/Debug/net5.0/Persistence.pdb
 /Users/roshanpoudel/Desktop/ReactDating/DatingApp/API/bin/Debug/net5.0/Humanizer.dll
 /Users/roshanpoudel/Desktop/ReactDating/DatingApp/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/roshanpoudel/Desktop/ReactDating/DatingApp/API/bin/Debug/net5.0/MediatR.dll
+/Users/roshanpoudel/Desktop/ReactDating/DatingApp/API/bin/Debug/net5.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/Users/roshanpoudel/Desktop/ReactDating/DatingApp/API/bin/Debug/net5.0/AutoMapper.dll
+/Users/roshanpoudel/Desktop/ReactDating/DatingApp/API/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
