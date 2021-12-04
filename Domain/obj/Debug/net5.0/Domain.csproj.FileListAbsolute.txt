@@ -1,0 +1,12 @@
+/Users/roshanpoudel/Desktop/ReactDating/DatingApp/Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/roshanpoudel/Desktop/ReactDating/DatingApp/Domain/bin/Debug/net5.0/Domain.dll
+/Users/roshanpoudel/Desktop/ReactDating/DatingApp/Domain/bin/Debug/net5.0/ref/Domain.dll
+/Users/roshanpoudel/Desktop/ReactDating/DatingApp/Domain/bin/Debug/net5.0/Domain.pdb
+/Users/roshanpoudel/Desktop/ReactDating/DatingApp/Domain/obj/Debug/net5.0/Domain.csproj.AssemblyReference.cache
+/Users/roshanpoudel/Desktop/ReactDating/DatingApp/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roshanpoudel/Desktop/ReactDating/DatingApp/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/roshanpoudel/Desktop/ReactDating/DatingApp/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/roshanpoudel/Desktop/ReactDating/DatingApp/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/roshanpoudel/Desktop/ReactDating/DatingApp/Domain/obj/Debug/net5.0/Domain.dll
+/Users/roshanpoudel/Desktop/ReactDating/DatingApp/Domain/obj/Debug/net5.0/ref/Domain.dll
+/Users/roshanpoudel/Desktop/ReactDating/DatingApp/Domain/obj/Debug/net5.0/Domain.pdb

@@ -1,0 +1,15 @@
+/Users/roshanpoudel/Desktop/ReactDating/DatingApp/Persistence/bin/Debug/net5.0/Persistence.deps.json
+/Users/roshanpoudel/Desktop/ReactDating/DatingApp/Persistence/bin/Debug/net5.0/Persistence.dll
+/Users/roshanpoudel/Desktop/ReactDating/DatingApp/Persistence/bin/Debug/net5.0/ref/Persistence.dll
+/Users/roshanpoudel/Desktop/ReactDating/DatingApp/Persistence/bin/Debug/net5.0/Persistence.pdb
+/Users/roshanpoudel/Desktop/ReactDating/DatingApp/Persistence/bin/Debug/net5.0/Domain.dll
+/Users/roshanpoudel/Desktop/ReactDating/DatingApp/Persistence/bin/Debug/net5.0/Domain.pdb
+/Users/roshanpoudel/Desktop/ReactDating/DatingApp/Persistence/obj/Debug/net5.0/Persistence.csproj.AssemblyReference.cache
+/Users/roshanpoudel/Desktop/ReactDating/DatingApp/Persistence/obj/Debug/net5.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roshanpoudel/Desktop/ReactDating/DatingApp/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfoInputs.cache
+/Users/roshanpoudel/Desktop/ReactDating/DatingApp/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfo.cs
+/Users/roshanpoudel/Desktop/ReactDating/DatingApp/Persistence/obj/Debug/net5.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/roshanpoudel/Desktop/ReactDating/DatingApp/Persistence/obj/Debug/net5.0/Persistence.csproj.CopyComplete
+/Users/roshanpoudel/Desktop/ReactDating/DatingApp/Persistence/obj/Debug/net5.0/Persistence.dll
+/Users/roshanpoudel/Desktop/ReactDating/DatingApp/Persistence/obj/Debug/net5.0/ref/Persistence.dll
+/Users/roshanpoudel/Desktop/ReactDating/DatingApp/Persistence/obj/Debug/net5.0/Persistence.pdb
