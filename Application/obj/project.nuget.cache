@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "iWBThzIBVgiXpmTB1PKECizQx7vmkitluynBLbEODX6a8vGVn8K006Ep0JNJr7mDKvf+6pY1paUALiwbCVhJnA==",
+  "dgSpecHash": "s/DrjxHoZZcH1XrtyO9xHdl68J0v4BVLPMVDR0a92DILhUBMYeZcf9Oo1yVL6f4oR+OtbvWIh7V9klqxr74GUQ==",
   "success": true,
   "projectFilePath": "/Users/roshanpoudel/Desktop/ReactDating/DatingApp/Application/Application.csproj",
   "expectedPackageFiles": [
     "/Users/roshanpoudel/.nuget/packages/automapper/7.0.1/automapper.7.0.1.nupkg.sha512",
     "/Users/roshanpoudel/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/5.0.1/automapper.extensions.microsoft.dependencyinjection.5.0.1.nupkg.sha512",
+    "/Users/roshanpoudel/.nuget/packages/fluentvalidation/10.3.5/fluentvalidation.10.3.5.nupkg.sha512",
+    "/Users/roshanpoudel/.nuget/packages/fluentvalidation.aspnetcore/10.3.5/fluentvalidation.aspnetcore.10.3.5.nupkg.sha512",
+    "/Users/roshanpoudel/.nuget/packages/fluentvalidation.dependencyinjectionextensions/10.3.5/fluentvalidation.dependencyinjectionextensions.10.3.5.nupkg.sha512",
     "/Users/roshanpoudel/.nuget/packages/mediatr/5.0.1/mediatr.5.0.1.nupkg.sha512",
     "/Users/roshanpoudel/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/5.0.1/mediatr.extensions.microsoft.dependencyinjection.5.0.1.nupkg.sha512",
     "/Users/roshanpoudel/.nuget/packages/microsoft.data.sqlite.core/5.0.12/microsoft.data.sqlite.core.5.0.12.nupkg.sha512",

@@ -64,3 +64,6 @@
 /Users/roshanpoudel/Desktop/ReactDating/DatingApp/API/bin/Debug/net5.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
 /Users/roshanpoudel/Desktop/ReactDating/DatingApp/API/bin/Debug/net5.0/AutoMapper.dll
 /Users/roshanpoudel/Desktop/ReactDating/DatingApp/API/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/roshanpoudel/Desktop/ReactDating/DatingApp/API/bin/Debug/net5.0/FluentValidation.dll
+/Users/roshanpoudel/Desktop/ReactDating/DatingApp/API/bin/Debug/net5.0/FluentValidation.AspNetCore.dll
+/Users/roshanpoudel/Desktop/ReactDating/DatingApp/API/bin/Debug/net5.0/FluentValidation.DependencyInjectionExtensions.dll

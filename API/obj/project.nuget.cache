@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "0rqBENJnFFb/tvX1WM6L1sbcKvaPJxbotYoouKd00XMIsQcmrXIj8OrAEJj4/TKGDx6QQ/gOsdD81lRikCgmfA==",
+  "dgSpecHash": "/V2L7te6TPjE6GuWhqUoDHxazoBY559NXkLpu+fujKsgIqfheaeMkHixa1eRtXuh+NGnMXnr1gm3k5mSRW/+qg==",
   "success": true,
   "projectFilePath": "/Users/roshanpoudel/Desktop/ReactDating/DatingApp/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/roshanpoudel/.nuget/packages/automapper/7.0.1/automapper.7.0.1.nupkg.sha512",
     "/Users/roshanpoudel/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/5.0.1/automapper.extensions.microsoft.dependencyinjection.5.0.1.nupkg.sha512",
+    "/Users/roshanpoudel/.nuget/packages/fluentvalidation/10.3.5/fluentvalidation.10.3.5.nupkg.sha512",
+    "/Users/roshanpoudel/.nuget/packages/fluentvalidation.aspnetcore/10.3.5/fluentvalidation.aspnetcore.10.3.5.nupkg.sha512",
+    "/Users/roshanpoudel/.nuget/packages/fluentvalidation.dependencyinjectionextensions/10.3.5/fluentvalidation.dependencyinjectionextensions.10.3.5.nupkg.sha512",
     "/Users/roshanpoudel/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/roshanpoudel/.nuget/packages/mediatr/5.0.1/mediatr.5.0.1.nupkg.sha512",
     "/Users/roshanpoudel/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/5.0.1/mediatr.extensions.microsoft.dependencyinjection.5.0.1.nupkg.sha512",
